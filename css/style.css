@@ -1,0 +1,18 @@
+body {
+    padding: 40px;
+    margin-top: 0px;
+  }
+
+.logos{
+    display: flex;
+    flex-direction: row;
+  }
+
+img{
+    display: block;
+    margin: auto;
+  }
+
+.sin{
+    border-radius: 30px;
+  }
